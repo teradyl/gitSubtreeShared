@@ -8,3 +8,5 @@ parent1 commit5
 
 parent2 commit6
 parent2 commit7
+
+parent1 commit8
